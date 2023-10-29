@@ -1,0 +1,14 @@
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\bin\Debug\net7.0\ConsoleEstudos.exe
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\bin\Debug\net7.0\ConsoleEstudos.deps.json
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\bin\Debug\net7.0\ConsoleEstudos.runtimeconfig.json
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\bin\Debug\net7.0\ConsoleEstudos.dll
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\bin\Debug\net7.0\ConsoleEstudos.pdb
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\obj\Debug\net7.0\ConsoleEstudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\obj\Debug\net7.0\ConsoleEstudos.AssemblyInfoInputs.cache
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\obj\Debug\net7.0\ConsoleEstudos.AssemblyInfo.cs
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\obj\Debug\net7.0\ConsoleEstudos.csproj.CoreCompileInputs.cache
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\obj\Debug\net7.0\ConsoleEstudos.dll
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\obj\Debug\net7.0\refint\ConsoleEstudos.dll
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\obj\Debug\net7.0\ConsoleEstudos.pdb
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\obj\Debug\net7.0\ConsoleEstudos.genruntimeconfig.cache
+C:\Users\Gangplank\source\repos\ConsoleEstudos\ConsoleEstudos\obj\Debug\net7.0\ref\ConsoleEstudos.dll

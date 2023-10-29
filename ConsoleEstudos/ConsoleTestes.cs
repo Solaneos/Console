@@ -10,7 +10,9 @@ namespace ConsoleEstudos
     {
         static void Main()
         {
-            Console.WriteLine("Nikolas Teste");
+            Console.WriteLine("Qual seu nome");
+            var a = Console.ReadLine();
+            Console.WriteLine("Prazer em te conhecer, {0}", a);
         }
     }
 }
