@@ -13,6 +13,8 @@ namespace ConsoleEstudos
             Console.WriteLine("Qual seu nome");
             var a = Console.ReadLine();
             Console.WriteLine("Prazer em te conhecer, {0}", a);
+            Console.WriteLine("Diga-me, {0}, qual sua motivação para levantar da cama?", a);
+            var b = Console.ReadLine();
         }
     }
 }
