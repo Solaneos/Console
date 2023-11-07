@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleEstudos.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,11 +11,16 @@ namespace ConsoleEstudos
     {
         static void Main()
         {
-            Console.WriteLine("Qual seu nome");
+            Console.WriteLine("Qual seu nome?");
             var a = Console.ReadLine();
-            Console.WriteLine("Prazer em te conhecer, {0}", a);
-            Console.WriteLine("Diga-me, {0}, qual sua motivação para levantar da cama?", a);
+            Console.WriteLine("Prazer em te conhecer");
+            Console.WriteLine("Diga-me, {0}, qual o seu pedido?", a);
             var b = Console.ReadLine();
+
+            var order = new Orders{ Id = 1, Name = b, OrderDate = DateTime.Now, Status = Entities.Enums.OrderStatus.Processing};
+
+            Console.WriteLine(order.ToString());
+
         }
     }
 }
