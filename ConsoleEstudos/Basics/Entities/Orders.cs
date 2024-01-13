@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ConsoleEstudos.Entities.Enums;
+using ConsoleEstudos.Basics.Entities.Enums;
 
-namespace ConsoleEstudos.Entities
+namespace ConsoleEstudos.Basics.Entities
 {
     internal class Orders
     {

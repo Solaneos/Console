@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleEstudos.Entities.Enums
+namespace ConsoleEstudos.Basics.Entities.Enums
 {
     public enum OrderStatus
     {
